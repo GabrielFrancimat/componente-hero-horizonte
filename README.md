@@ -2,7 +2,7 @@
 
 Reproduzir uma capa de site em que um texto claro fica perfeitamente legível sobre uma fotografia clara e colorida.
 
-![Resultado esperado](referencia.png)
+![Resultado esperado](../assets/img/referencia.png)
 
 A pegadinha está aí: **a foto original não é escura.** Abra `img/horizonte.jpg` e compare com a imagem acima. É o CSS que escurece a fotografia, com uma camada de sombra colocada entre a imagem e o texto. Descobrir como criar essa camada é o desafio.
 
